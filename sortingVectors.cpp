@@ -106,7 +106,7 @@ void showTotals(vector<double> sales, vector<int> units)
 {
   int totalUnits=0;
   double totalSales=0.0;
-  cout << "Product Number\tSales\n";
+  cout << "Products Number\tSales\n";
   cout << "------------------------------------------\n" ;
   for (int i = 0; i < units.size(); i++)
   {
